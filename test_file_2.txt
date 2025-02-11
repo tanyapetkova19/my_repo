@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 print("adding info fromtest_branch_1")
+=======
+print("adding info from test_branch_2")
+>>>>>>> test_branch_2
